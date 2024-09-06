@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack Development 
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on team
-- 📫 How to reach me jamiluddin3282002@gmail.com
+- 📫 How to reach me jamiluddin3282003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
