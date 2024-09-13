@@ -1,4 +1,6 @@
+ 👋 Hi, I’m @web-jamil
 
+ 
 As a software engineer, I am well-versed in multiple programming languages and frameworks, demonstrating versatility in both front-end and back-end development. Here's how each technology fits into my skill set:
 
 1. JavaScript (JS): My fluency in JavaScript enables me to build dynamic and interactive web applications. I am comfortable working with both vanilla JavaScript and various libraries and frameworks to enhance web functionality.
@@ -29,7 +31,7 @@ My proficiency across these technologies highlights my adaptability and capabili
 
 
 
- 👋 Hi, I’m @web-jamil
+
  👀 I’m interested in MERN Stack Development 
 🌱 I’m currently learning node js
  💞️ I’m looking to collaborate on team
