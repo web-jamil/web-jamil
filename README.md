@@ -2,7 +2,7 @@
 Here’s an advanced and more polished version of your GitHub profile description:
 
 # **Hi, I'm Jamil! 👋**  
-### 🚀 **Passionate Full-Stack Developer | Problem Solver | Lifelong Learner**
+### 🚀 **Passionate Full-Stack Developer | Problem Solver | Lifelong Learner**| Meachine Learner 
 
 Welcome to my GitHub profile! I thrive on building innovative solutions, exploring cutting-edge technologies, and contributing to the developer community. My mission is to create clean, efficient, and impactful code while continuously expanding my technical expertise.
 
