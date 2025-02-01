@@ -1,6 +1,4 @@
 
-Here’s an advanced and more polished version of your GitHub profile description:
-
 # **Hi, I'm Jamil! 👋**  
 ### 🚀 **Passionate Full-Stack Developer | Problem Solver | Lifelong Learner**| Meachine Learner 
 
