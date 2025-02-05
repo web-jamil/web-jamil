@@ -1,6 +1,4 @@
-Here’s a refined version of your GitHub profile description tailored for software development:  
 
----
 
 # **Hi, I'm Jamil! 👋**  
 ### 🚀 **Full-Stack Developer | Problem Solver | AI/ML Enthusiast**  
@@ -35,7 +33,7 @@ I follow best practices to write clean, maintainable, and efficient code. Here a
 - 💬 **Technical Skills:**  
   - **Frontend:** React, Redux, TailwindCSS, Bootstrap  
   - **Backend:** Node.js, Express.js, REST APIs  
-  - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+  - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3,Version Control 
   - **Development Practices:** Responsive Design, Code Optimization, Algorithmic Problem Solving  
 
 - 📫 **Let’s Connect:**  
