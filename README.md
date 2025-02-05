@@ -31,13 +31,13 @@ I follow best practices to write clean, maintainable, and efficient code. Here a
 - **Continuous Learning** – Staying up to date with modern development trends and technologies.  
 
 - 💬 **Technical Skills:**  
-  - **Frontend:** React, Redux, TailwindCSS, Bootstrap  
+  - **Frontend:** React, Redux, TailwindCSS
   - **Backend:** Node.js, Express.js, REST APIs  
-  - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3,Version Control 
+  - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3,Python
   - **Development Practices:** Responsive Design, Code Optimization, Algorithmic Problem Solving  
 
 - 📫 **Let’s Connect:**  
-  [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)  
+  [Email](mailto:jamiluddin3282003@gmain.com) | [LinkedIn](https://www.linkedin.com/in/md-jamil-uddin-a1b47a319/)  
 
 - ⚡ **Fun Fact:**  
   I’m an avid chess player, a tech blog enthusiast, and I love solving algorithmic challenges to sharpen my problem-solving skills.  
