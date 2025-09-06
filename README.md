@@ -57,12 +57,10 @@ I follow best practices to write clean, maintainable, and efficient code. Here a
 ---
 
 ## **GitHub Insights**  
+### 🔗 Connect with Me
 
-📊 **My Coding Journey at a Glance:**  
-![Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=web-jamil&show_icons=true&theme=radical)  
-
-📚 **Languages I Work With:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=web-jamil&layout=compact&theme=radical)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jamil-uddin-a1b47a319/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/web-jamil)ps://github-readme-stats.vercel.app/api/top-langs/?username=web-jamil&layout=compact&theme=radical)  
 
 ---
 
